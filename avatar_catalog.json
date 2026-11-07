@@ -1,0 +1,92 @@
+{
+    "version": "1.0.0",
+    "cdn_base_url": "https://cdn.jsdelivr.net/gh/ayushsinghrajput9097939338-crypto/kamakhya-avatar-assets@main",
+    "characters": {
+        "nova_agni": {
+            "tier": "NOVA",
+            "element": "Nature",
+            "stars": 3,
+            "emotions": [
+                "01_neutral",
+                "02_excited",
+                "03_shy",
+                "04_sad",
+                "05_laughing"
+            ],
+            "total_frames": 50
+        },
+        "nova_aarya": {
+            "tier": "NOVA",
+            "element": "Ice",
+            "stars": 3,
+            "emotions": [
+                "01_neutral",
+                "02_excited",
+                "03_shy",
+                "04_sad",
+                "05_laughing"
+            ],
+            "total_frames": 50
+        },
+        "master_indra": {
+            "tier": "MASTER",
+            "element": "Water",
+            "stars": 4,
+            "emotions": [
+                "01_neutral",
+                "02_sad",
+                "03_happy",
+                "04_shy",
+                "05_confident",
+                "06_playful",
+                "07_surprised",
+                "08_shocked",
+                "09_thoughtful",
+                "10_romantic"
+            ],
+            "total_frames": 100
+        },
+        "master_asani": {
+            "tier": "MASTER",
+            "element": "Lightning",
+            "stars": 4,
+            "emotions": [
+                "01_neutral",
+                "02_sad",
+                "03_happy",
+                "04_shy",
+                "05_confident",
+                "06_playful",
+                "07_surprised",
+                "08_shocked",
+                "09_thoughtful",
+                "10_romantic"
+            ],
+            "total_frames": 100
+        },
+        "elite_ayush": {
+            "tier": "ELITE MASTER",
+            "element": "Wind",
+            "stars": 5,
+            "skins": [
+                "skin_01_blue_kitsune",
+                "skin_02_red_kitsune",
+                "skin_03_royal_knot",
+                "skin_04_dragon_warrior"
+            ],
+            "total_frames": 400
+        },
+        "elite_mahi": {
+            "tier": "ELITE MASTER",
+            "element": "Fire",
+            "stars": 5,
+            "skins": [
+                "skin_01_blue_kitsune",
+                "skin_02_red_kitsune",
+                "skin_03_royal_knot",
+                "skin_04_dragon_warrior"
+            ],
+            "total_frames": 400
+        }
+    }
+}
