@@ -1,0 +1,1 @@
+# kamakhya-avatar-assets
